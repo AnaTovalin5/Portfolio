@@ -5,8 +5,11 @@ div {
 .container {
     width: 100%;
     height: 680px;
-    background-color: whitesmoke;
+    background-image: url("http://fc06.deviantart.net/fs51/i/2009/290/4/5/Full_Moon_Wallpaper_by_cycoze.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
     color: maroon;
+    
 }
 
 .row {
@@ -27,7 +30,7 @@ div {
 #titles {
     font-family: arial;
     font-size: 40px;
-    color: maroon;
+    color: whitesmoke;
     position: fixed;
 }
 
@@ -37,6 +40,7 @@ div {
     background-color: rgba(0, 0, 0, .4); 
     min-height: 540px;
     width: 900px;
+    color: whitesmoke;
 }
 
 #barTitle {
